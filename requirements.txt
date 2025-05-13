@@ -10,3 +10,4 @@ sympy==1.11.1
 nlpaug==1.1.11
 matplotlib==3.7.1
 seaborn==0.12.2
+scikit-learn==1.2.2
