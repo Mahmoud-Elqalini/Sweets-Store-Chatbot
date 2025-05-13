@@ -1,0 +1,27 @@
+Classification Report:
+                      precision    recall  f1-score   support
+
+        cancel_order     0.8810    0.9250    0.9024        40
+          complaints     0.9783    1.0000    0.9890        45
+    customer_support     0.8065    0.8065    0.8065        31
+       delivery_info     0.9388    0.9583    0.9485        48
+             goodbye     1.0000    0.9808    0.9903        52
+            greeting     1.0000    0.9756    0.9877        41
+                help     0.7931    0.7931    0.7931        29
+                math     1.0000    1.0000    1.0000        38
+                name     0.9737    1.0000    0.9867        37
+offers_and_discounts     0.9355    0.9667    0.9508        30
+     order_placement     0.9211    0.9722    0.9459        36
+      order_tracking     0.9574    0.8824    0.9184        51
+     payment_methods     0.9643    1.0000    0.9818        27
+product_availability     0.7872    0.8222    0.8043        45
+        product_info     0.9714    0.8293    0.8947        41
+       product_price     0.9231    1.0000    0.9600        24
+      returns_policy     0.9714    0.9444    0.9577        36
+    site_description     1.0000    1.0000    1.0000        36
+      store_location     1.0000    0.9722    0.9859        36
+              thanks     0.9792    1.0000    0.9895        47
+
+            accuracy                         0.9416       770
+           macro avg     0.9391    0.9414    0.9397       770
+        weighted avg     0.9426    0.9416    0.9415       770
