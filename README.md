@@ -24,6 +24,7 @@ This project integrates advanced NLP models such as **AraBERT** for Arabic and *
 - `main_functions.py` – Core functions: preprocessing, embeddings, math solving, model loading.
 - `train.py` – Trains the intent classification model.
 - `classification_report.txt` – Model performance report.
+- `confusion_matrix.png` for detailed performance.
 - `file_training/` – Contains `english.json` and `arabic.json` (training data).
 
 ---
@@ -40,7 +41,7 @@ This project integrates advanced NLP models such as **AraBERT** for Arabic and *
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/sweets-store-chatbot.git
+    git clone https://github.com/Mahmoud-Elqalini/sweets-store-chatbot.git
     cd sweets-store-chatbot
     ```
 
@@ -74,7 +75,7 @@ This project integrates advanced NLP models such as **AraBERT** for Arabic and *
   - English: `What is the price of the cake?`
   - Arabic: `سعر الكيكة كام؟`
   - Math: `What is 5 times 3?` or `٥ مضروب في ٣ كام؟`
-
+  - and more 
 ---
 
 ## 📊 Model Performance
@@ -83,6 +84,7 @@ This project integrates advanced NLP models such as **AraBERT** for Arabic and *
 - **Macro F1-Score**: 0.9397
 - **Weighted F1-Score**: 0.9415  
 > 📄 See `classification_report.txt` for detailed performance.
+> 📄 See `confusion_matrix.png` for detailed performance.
 
 ---
 
@@ -121,19 +123,13 @@ Fork the repo, create a new branch, and submit a pull request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See `LICENSE` file for details.
-
----
-
 ## 📬 Contact
 
 For questions or collaboration:
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Email: `your.email@example.com`
+- LinkedIn: (https://www.linkedin.com/in/mahmoud-elqalini-012749286)
+- Email: `mahmoudeq02@gmail.com`
 
 ---
 
-> Made with ❤️ by Mahmoud Hamdi
+> Made with ❤️ by Mahmoud Elqalini
